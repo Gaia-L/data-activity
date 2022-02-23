@@ -20,6 +20,10 @@ IDE usata per lo sviluppo Visual Studio Code.
 1:Clonare il progetto: 
 - git clone https://github.com/Gaia-L/data-activity.git
 2: dopo aver clonato il progetto , posizionarsi in data-activity ed eseguire i segueni comandi:
--npm install
--npm start 
+
+npm install 
+
+e successivamente : 
+
+npm start 
 
