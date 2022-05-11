@@ -29,5 +29,3 @@ npm start
 
 prova branch2
 Prova, ciao Gaia
-
-Talent Academy 2022
