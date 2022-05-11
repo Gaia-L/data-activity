@@ -11,7 +11,7 @@ class App extends Component {
           <MainComponent />
         </div>
         <div className="footer">
-          <p>Created by Gaia !</p>
+          <p>© copyright Gaia</p>
         </div>
       </>
     )

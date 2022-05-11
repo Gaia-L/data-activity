@@ -12,7 +12,7 @@ class Navbar extends Component {
                             Patients Activity Statistics</span>
                     </div>
                     <Info />
-                </nav >
+                </nav>
             </>
         );
     }
