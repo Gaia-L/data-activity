@@ -12,7 +12,7 @@ function PanelCards(props) {
                 <Accordion.Item eventKey="0">
                     <Accordion.Header>Click on the arrow to view the patient files</Accordion.Header>
                     <Accordion.Body>
-                        <h1>Patients Data</h1>
+                        <h1>Dati dei Pazienti</h1>
                         <div className='row'>
                             {props.dato.map(card =>
                                 <Cards
